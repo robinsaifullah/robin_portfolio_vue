@@ -51,23 +51,18 @@
 
                 <!-- More About Me Section -->
                 <div class="mt-4 md:mt-0 text-left flex flex-col z-10 h-full" data-aos="flip-right">
-                    <h2 class="text-4xl font-bold text-white md:text-center mb-4">More
-                        <span
-                            class="text-transparent bg-clip-text bg-gradient-to-r from-primary to-secondary">About</span>
-                        Me
+                    <h2 class="text-4xl font-bold text-white md:text-center mb-4">
+                        <span class="text-transparent bg-clip-text bg-gradient-to-r from-primary to-secondary">Why
+                            Choose Me?</span>
                     </h2>
                     <p class="text-base lg:text-lg mt-2">
-                        I am confident in my ability to provide top-notch IT support and guidance. Whether it's
-                        troubleshooting technical issues, installing and configuring new hardware and software, or
-                        helping non-technical users understand how to use their computers effectively, I have the skills
-                        and expertise to get the job done.
-                        I am a reliable and resourceful IT professional, and I take pride in my ability to find creative
-                        solutions to even the most complex technical problems.
-                        My skills include web design and development, data entry, and web-related work. I am always
-                        looking for new opportunities to help clients achieve their goals.
-                        If you are in need of web design and development, data entry, and IT support, I would love the
-                        opportunity to work with you.
-                        Please don't hesitate to
+                        I am dedicated to providing exceptional IT support that empowers your business to thrive. With a
+                        strong commitment to excellence, I utilize my extensive technical expertise to ensure your
+                        systems operate seamlessly and efficiently.
+                        Whether you require assistance with desktop services, email configuration, website
+                        troubleshooting, or specialized recovery solutions, I am here to provide tailored support that
+                        meets your unique needs.
+                        Let’s work together to enhance your IT infrastructure and drive your success!
 
                     </p>
 

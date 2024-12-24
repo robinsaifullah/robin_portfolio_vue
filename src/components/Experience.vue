@@ -1,5 +1,5 @@
 <template>
-    <section class="text-white mt-20 flex items-center" id="Experience">
+    <section class="bg-gray-900 text-white mt-20 text-white mt-20 flex items-center" id="Experience">
         <div class="absolute z-0 top-[93rem] inset-x-0 h-64 flex items-start">
             <div class="h-24 w-64 bg-gradient-to-br from-primary via-secondary blur-2xl to-[#570cac] opacity-20"></div>
         </div>
